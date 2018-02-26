@@ -1,2 +1,3 @@
 # hello-world
-we see hello world and after that we got lost between the lines
+we say just "hello world" and after that we get lost between the lines
+#spelling corrections 
